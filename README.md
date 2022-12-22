@@ -1,8 +1,15 @@
-# **Hey! I'm Lionel.**  👋 
+<h1>Hey! I'm Lionel  👋 <a href="https://www.linkedin.com/in/lionel-castro/" >
+<img align="right" alt="Lionel Castro LinkedIN" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
+</a></h1>
 
-## _FullStack developer_ <img alt="React" width="25px" style="padding-left:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />❤️
+## _FullStack developer_ <img alt="React" width="25px" style="padding-left:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />❤️ <img align="right" height="140" src="https://camo.githubusercontent.com/12e5f2b182da4b52850b29bb09e8ba3e92b0ac2c0bd121de7dfcbb291fbbd525/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f37372f63612f61332f37376361613332383834643733356434333961646534356261333766656166322e676966" /> 
 
+<p>I'm a FullStack Dev, with knowledge with PERN or MERN stack.</p>
+<p>Currently learning more about NEXTJS!.</p>
 
+<br />
+
+---
 **Lenguages and Tools:**
 
 <img align="left" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> 
@@ -19,9 +26,7 @@
 <br />
 
 ---
-<a href="https://www.linkedin.com/in/lionel-castro/" >
-<img align="left" alt="Lionel Castro LinkedIN" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
-</a>
+
 
 ![Lioxcas's github stats](https://github-readme-stats.vercel.app/api?username=lioxcas&show_icons=true&hide_border=true)
 
